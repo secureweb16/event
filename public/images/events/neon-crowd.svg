@@ -1,0 +1,18 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#111827"/>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <path d="M0 700L140 640L260 690L360 620L480 700L620 590L760 700L920 560L1090 700L1260 610L1420 700L1600 620V1000H0V700Z" fill="#020617"/>
+  <circle cx="220" cy="210" r="140" fill="#A855F7" fill-opacity="0.24"/>
+  <circle cx="1340" cy="230" r="180" fill="#22D3EE" fill-opacity="0.2"/>
+  <rect x="620" y="320" width="360" height="28" rx="14" fill="#F8FAFC" fill-opacity="0.65"/>
+  <rect x="670" y="390" width="260" height="22" rx="11" fill="#F8FAFC" fill-opacity="0.45"/>
+  <text x="140" y="170" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="44" font-weight="700">NEON CROWD</text>
+  <text x="140" y="228" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="22">Fast-moving line-up / warm-up sets / peak-time energy</text>
+  <defs>
+    <linearGradient id="bg" x1="180" y1="80" x2="1440" y2="920" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+</svg>
